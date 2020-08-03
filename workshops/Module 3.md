@@ -53,7 +53,7 @@ We will first test the application locally.
 
 1) Right click on CustomEntityLookup in the Solution Explorer and choose "Set as StartUp Project"
 2) Press F5 - NOTE: You may need to allow the function to run
-3) Once the function is running it should supply you with the URL to use for POST calls.  Copy this URL.
+3) Once the function is running it should supply you with the URL to use for POST calls.  Copy this URL - http://localhost:7071/api/custom-entity-lookup.
 
 ![](images/azurefunction.png)
 
